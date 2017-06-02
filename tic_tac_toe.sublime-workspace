@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"player",
+				"player_1"
+			],
+			[
+				"name",
+				"name_1"
+			],
+			[
+				"games",
+				"games_to_play"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"posit",
+				"position_taken"
+			],
+			[
+				"attr_",
+				"attr_accessor"
+			],
+			[
+				"Player",
+				"Player_o"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/eldoops/workspace/tic_tac_toe/lib",
+		"/home/eldoops/workspace/tic_tac_toe/lib/tic_tac_toe",
+		"/home/eldoops/workspace/tic_tac_toe/spec"
+	],
+	"file_history":
+	[
+		"/home/eldoops/workspace/tic_tac_toe/spec/board_spec.rb",
+		"/home/eldoops/workspace/tic_tac_toe/lib/tic_tac_toe/board.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/tic_tac_toe/tic_tac_toe/spec/spec_helper.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/tic_tac_toe/tic_tac_toe/spec/cell_spec.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/tic_tac_toe/tic_tac_toe/lib/tic_tac_toe/cell.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/tic_tac_toe/tic_tac_toe/lib/tic_tac_toe.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/board.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/player.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/game.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/play_tictactoe.rb",
+		"/home/eldoops/the_odin_project/tic_tac_toe/lib/tic_tac_toe.rb",
+		"/home/eldoops/Apollo Sandbox - Vision/src/triggers/VS_ITRequestMain.trigger",
+		"/media/eldoops/Data Drive/MaxBoops 1-28-2017 bkp/Python program dump/edX/squareRootLecture-bisectionmethod.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tic_tac_toe.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
